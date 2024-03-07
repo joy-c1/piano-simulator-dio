@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/f0/b5/70/f0b570b1f9a73a0fdf0349b78dac493b.png" alt="Notas musicais" width=400px>
 
 <p>Este projeto consiste em um simulador virtual de piano onde todos os elementos foram criados do zero, a partir das tecnologias utilizadas. </p>
-<p>Para conferir o resultado, clique <a href="" target="_blank">aqui</a> e divirta-se!</p>
+<p>Para conferir o resultado, clique <a href="https://joy-c1.github.io/piano-simulator-dio/" target="_blank">aqui</a> e divirta-se!</p>
 
 ## 📍 Tecnologias Usadas:
 
